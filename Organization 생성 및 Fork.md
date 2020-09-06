@@ -75,6 +75,7 @@
 > add - commit - push(origin)
 
 * push 할 때 원본 저장소와 바로 연결지으면 안됨!
+  * `git push algo master` 금지!
 
 
 
@@ -88,13 +89,23 @@
 
 ![PR3](img/PR3.PNG)
 
-
+![PR4](img/PR4.PNG)
 
 ## 원본 저장소 - Fork 반영 (Merge)
 
 > PR 요청을 확인한 후, 변경 내용 점검 후 Merge
 
-![PR_merge](img/PR_merge.PNG)
+![PR_merge](img/Merge.PNG)
+
+![PR_check](img/check.PNG)
+
+![PR_check1](img/check1.PNG)
+
+![PR_confrim](img/confirm.PNG)
+
+![PR_merged](img/merged.PNG)
+
+
 
 ## 원본 저장소 - Local 작업환경 동기화 (Pull)
 
