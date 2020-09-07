@@ -12,7 +12,7 @@ count = [0] * (fear[max_idx]+1)
 for i in range(N):
     count[fear[i]] += 1
 
-# 그리디, 앞에서부터
+# PART03, 앞에서부터
 # 나머지 넘기지 않음
 total = 0
 rest = 0
